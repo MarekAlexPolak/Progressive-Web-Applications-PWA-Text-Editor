@@ -38,12 +38,14 @@ npm run start
 ```
 From here you can open the application on your localhost (default is http://localhost:3000/) and install the application
 by clicking the install button.
+
 ![Install Button](/images/installbutton.PNG)
 
 ### Web Installation 
 
 Simply go click [here](https://marek-pwa-text-editor-1110b78c964a.herokuapp.com/) to go to the live website. 
 From here just click the install button and begin coding!
+
 ![Install Button](/images/installbutton.PNG)
 
 ## Usage
