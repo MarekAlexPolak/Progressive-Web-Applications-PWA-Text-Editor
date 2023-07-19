@@ -43,7 +43,7 @@ by clicking the install button.
 
 ### Web Installation 
 
-Simply go click [here](https://marek-pwa-text-editor-1110b78c964a.herokuapp.com/) to go to the live website. 
+Simply click [here](https://marek-pwa-text-editor-1110b78c964a.herokuapp.com/) to go to the live website. 
 From here just click the install button and begin coding!
 
 ![Install Button](/images/installbutton.PNG)
